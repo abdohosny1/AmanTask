@@ -1,0 +1,10 @@
+﻿global using AmanTask.Core;
+global using AmanTask.EF;
+global using AmanTask.EF.Data;
+global using Microsoft.EntityFrameworkCore;
+global using AmanTask.Api.Dto;
+global using AmanTask.Core.Model;
+global using AutoMapper;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.Mvc;
+global using System.Net;
